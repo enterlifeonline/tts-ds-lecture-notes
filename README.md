@@ -30,7 +30,7 @@ This is an 8 week course with two classes per weeek (16 classes in total). I wan
 
 # The Flow
 
-A typical class day will be broken down as the following:
+A typical class session (3 hours) will be broken down as the following:
 
 - **30 minutes:** Review material from previous class
 - **1 hour 15 minutes:** Learn & Review Material
