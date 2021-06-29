@@ -42,9 +42,9 @@ A typical class session (3 hours) will be broken down as the following:
 
 For most of your homework assignments simply put the link to your Github repository with the folder name of the module that you are completing. Homwork should always be found in your Github repo. Class time should be enough to complete homework assignemnts. Podcast and readings to be done outside of class time.
 
-# Test
+# Weekly Assessments
 
-You will have a test assigned to you every thursday that is due the following tuesday. You only get ONE CHANCE to take the exam. This exam is thorugh Hackerank therefore zero control of access or grades. The test grades are sent to TTS Curriculm team and I do not have access to them.
+You will have a weekly assessment assigned to you every Thursday that is due the following Tuesday. You only get ONE CHANCE to take the exam. This exam is thorugh Hackerank therefore zero control of access or grades. The test grades are sent to TTS Curriculm team and I do not have access to them.
 
 # Recordings of class
 
