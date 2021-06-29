@@ -1,4 +1,4 @@
-# DataScienceLectureNotes
+# TTS DS Fundamentals Notes
 
 This Git repository is available to all data science students and instructors for Tech Talent South.
 
@@ -6,7 +6,7 @@ This Git repository is available to all data science students and instructors fo
 
 Please complete the following [survey](#) before or after your first class.
 
-# Your Data Science Instructor
+# Instructor
 
 Gary Jackson is a technologist, teacher, and data scientist.
 
