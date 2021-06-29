@@ -46,7 +46,7 @@ For most of your homework assignments simply put the link to your Github reposit
 
 You will have a weekly assessment assigned to you every Thursday that is due the following Tuesday. You only get ONE CHANCE to take the exam. This exam is thorugh Hackerank therefore zero control of access or grades. The test grades are sent to TTS Curriculm team and I do not have access to them.
 
-# Recordings of class
+# Recordings of Class
 
 A link to the recording and the password will be emailed to everyone in the class post class.
 
