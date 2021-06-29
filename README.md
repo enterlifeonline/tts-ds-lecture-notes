@@ -56,7 +56,7 @@ Please just let me know ahead of time if you are going to be late or you will mi
 
 # Contact
 
-You can reach out to me via Slack, [email](mailto:gjackson@techtalentsouth.com).
+You can reach out to me via [Slack](tts-students.slack.com) or [email](mailto:gjackson@techtalentsouth.com).
 
 # After-Class Survey
 
